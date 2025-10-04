@@ -7,7 +7,7 @@ By sending a photo of the fruit to the Gemini API with a carefully designed prom
 - Predict its ripeness and sweetness level
 - Provide personalized recommendations (when to eat, storage, or sales suggestions)
 
-<img src="docs/usage.png" alt="Fruit Analysis Example" width="450"/>  
+<img src="docs/usage.png" alt="Fruit Analysis Example" width="900"/>  
 ---
 
 ## 📸 Demo Screenshots  
